@@ -21,8 +21,8 @@ description:         Please see the README on GitHub at <https://github.com/Yosh
 
 dependencies:
 - base >= 4.7 && < 5
-- hetero-parameter-list
-- storable-peek-poke
+- hetero-parameter-list < 2
+- storable-peek-poke < 2
 
 ghc-options:
 - -Wall
